@@ -2,7 +2,15 @@
   "posts": [
     {
       "title": "Titulo",
-      "description": "teste teste teste"
+      "description": "teste teste teste",
+      "author": "Lucas",
+      "content": "",
+      "comments": [
+        "muito show!",
+        "adorei",
+        "nice!",
+        "aprovado"
+      ]
     }
   ]
 }
